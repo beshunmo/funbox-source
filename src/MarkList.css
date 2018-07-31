@@ -1,0 +1,12 @@
+.mark-list {
+    border-radius: 6px;
+    padding: 20px;
+    width: 350px;
+    margin-right: 20px;
+}
+
+.mark_name {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
